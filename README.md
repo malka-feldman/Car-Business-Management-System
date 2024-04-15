@@ -1,0 +1,1 @@
+This Car Business Management System is a software application built using C# and the Windows GUI framework for the user interface. It serves as a comprehensive solution for managing various aspects of a car business, including inventory management, sales tracking, customer management, and more.
